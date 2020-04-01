@@ -1,0 +1,14 @@
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\bin\Debug\EzanAlarmi.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\bin\Debug\EzanAlarmi.exe
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\bin\Debug\EzanAlarmi.pdb
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\obj\Debug\EzanAlarmi.Form1.resources
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\obj\Debug\EzanAlarmi.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\obj\Debug\EzanAlarmi.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\obj\Debug\EzanAlarmi.exe
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\obj\Debug\EzanAlarmi.pdb
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\bin\Debug\Geckofx-Core.dll
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\bin\Debug\Geckofx-Winforms.dll
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\bin\Debug\Geckofx-Core.pdb
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\bin\Debug\Geckofx-Winforms.pdb
+c:\users\harun\documents\visual studio 2015\Projects\EzanAlarmi\EzanAlarmi\obj\Debug\EzanAlarmi.Alarm.resources
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\EzanAlarmi\EzanAlarmi\obj\Debug\EzanAlarmi.csprojResolveAssemblyReference.cache
